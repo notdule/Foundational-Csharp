@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\bin\Debug\net7.0\For and Foreach Statements.exe
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\bin\Debug\net7.0\For and Foreach Statements.deps.json
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\bin\Debug\net7.0\For and Foreach Statements.runtimeconfig.json
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\bin\Debug\net7.0\For and Foreach Statements.dll
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\bin\Debug\net7.0\For and Foreach Statements.pdb
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.AssemblyInfo.cs
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.dll
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\refint\For and Foreach Statements.dll
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.pdb
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\For and Foreach Statements.genruntimeconfig.cache
+C:\Users\Home\Desktop\Projects\For and Foreach Statements\obj\Debug\net7.0\ref\For and Foreach Statements.dll

@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\bin\Debug\net7.0\Quick Maths! - Math Game.exe
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\bin\Debug\net7.0\Quick Maths! - Math Game.deps.json
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\bin\Debug\net7.0\Quick Maths! - Math Game.runtimeconfig.json
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\bin\Debug\net7.0\Quick Maths! - Math Game.dll
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\bin\Debug\net7.0\Quick Maths! - Math Game.pdb
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.AssemblyInfo.cs
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.dll
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\refint\Quick Maths! - Math Game.dll
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.pdb
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\Quick Maths! - Math Game.genruntimeconfig.cache
+C:\Users\Home\Desktop\Projects\Quick Maths! - Math Game\obj\Debug\net7.0\ref\Quick Maths! - Math Game.dll

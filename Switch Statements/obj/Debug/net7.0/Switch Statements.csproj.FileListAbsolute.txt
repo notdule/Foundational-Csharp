@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\Projects\Switch Statements\bin\Debug\net7.0\Switch Statements.exe
+C:\Users\Home\Desktop\Projects\Switch Statements\bin\Debug\net7.0\Switch Statements.deps.json
+C:\Users\Home\Desktop\Projects\Switch Statements\bin\Debug\net7.0\Switch Statements.runtimeconfig.json
+C:\Users\Home\Desktop\Projects\Switch Statements\bin\Debug\net7.0\Switch Statements.dll
+C:\Users\Home\Desktop\Projects\Switch Statements\bin\Debug\net7.0\Switch Statements.pdb
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.AssemblyInfo.cs
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.dll
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\refint\Switch Statements.dll
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.pdb
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\Switch Statements.genruntimeconfig.cache
+C:\Users\Home\Desktop\Projects\Switch Statements\obj\Debug\net7.0\ref\Switch Statements.dll

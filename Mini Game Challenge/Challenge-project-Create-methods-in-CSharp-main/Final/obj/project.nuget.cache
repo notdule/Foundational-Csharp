@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPVZkH2XrYjkMX4o8Vmu+XmbCvEjABmtOpgGzDjM6mpAL/MaIkLRvPc8FZCuj5icNQWYpXKFbHQ+CaXOGit1Xw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Home\\Desktop\\Projects\\Mini Game Challenge\\Challenge-project-Create-methods-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
